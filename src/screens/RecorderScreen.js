@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Button } from 'react-native';
-import SoundRecorder from 'react-native-sound-recorder';
+import SoundRecorder from 'react-native-matrix';
 import { storeRecording } from '../helpers/recordingStorage';
 
 const RecorderScreen = ({ navigation }) => {

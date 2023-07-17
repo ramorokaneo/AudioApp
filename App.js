@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import RecorderScreen from './src/screens/RecorderScreen';
 import PlayerScreen from './src/screens/PlayerScreen';
-import RecordingsScreen from './src/screens/RecordingsScreen';
+import RecordingScreen from './src/screens/RecordingScreen';
 
 const Stack = createStackNavigator();
 
